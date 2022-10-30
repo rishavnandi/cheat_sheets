@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "d22beb848b359345",
+    "type": "split",
+    "children": [
+      {
+        "id": "74ad80978e8c3a45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "168f6c2819d2708c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dsa/mathematics_number_theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b872ce241625961",
+    "type": "split",
+    "children": [
+      {
+        "id": "5652245b278dc3a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "839416e71ee04840",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a9f7b4783a762c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75f77d8c676eb975",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6c7fce160bbe057",
+    "type": "split",
+    "children": [
+      {
+        "id": "46fa270b100559ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9e7d14888566659",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dsa/mathematics_number_theory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "523cf75797a4e42e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dsa/mathematics_number_theory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a8449abe59fd382",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63f6e013045c0a55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dsa/mathematics_number_theory.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "168f6c2819d2708c",
+  "lastOpenFiles": []
+}
